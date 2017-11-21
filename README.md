@@ -1,2 +1,2 @@
-# server connection for Ivan 
+# GUI for Vitaliy 
 some description
